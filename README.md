@@ -29,7 +29,7 @@ sudo dpkg -i google-chrome-stable_current_amd64.deb
 sudo apt --fix-broken install
 ```
 ```
-npm install puppeteer-core‍
+npm install axios puppeteer-extra puppeteer-extra-plugin-stealth puppeteer-core
 ```
 
  ganti bagian /usr/bin/chromium-browser
