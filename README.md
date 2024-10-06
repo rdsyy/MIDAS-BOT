@@ -2,6 +2,13 @@
 
 ## Steps
 
+
+```
+git clone https://github.com/rdsyy/MIDAS-BOT.git
+```
+```
+cd MIDAS-BOT
+```
 ```
 sudo apt remove -y chromium-browser
 ```
